@@ -43,9 +43,9 @@ To make sure that everything is working smoothly, here is what to expect from ab
 Please assert that you run our code with the same GPU performance ,
 you will know our GPU performance by the cell  
  
-
+!nvidia-smi
 ```
-###!nvidia-smi
+
 ## [On the Leaderboard](https://zindi.africa/competitions/cgiar-wheat-growth-stage-challenge/leaderboard)
 
 Look for the team named : **SidiSahbi2.0** <br>
