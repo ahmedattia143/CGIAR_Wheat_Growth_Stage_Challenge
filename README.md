@@ -28,12 +28,12 @@ For more information about this challenge, have a look on [Zindi](https://zindi.
          
 #### 7. Run 'densenet201/densenet201_classif_FastaAI.ipynb'    to get <h3>'densenet201_classif_FastaAI.csv' </h3>
 #### 8. Run 'Blend/FINAL_BLEND.ipynb'   to get <h3>'Final_Blend.csv' </h3>
-
-### Output
+```
+## Output
 ```
 'Final_Blend.csv'
 ```
-```
+
 
 ## Expectations
 
