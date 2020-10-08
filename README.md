@@ -11,7 +11,8 @@ For more information about this challenge, have a look on [Zindi](https://zindi.
 
 ### Steps
 
-'''
+
+```
 ####  Make sure to follow the repo structure
 #### 1. Run 'resnet152Fastai/resnet152_classif_FastAI.ipynb'
 #### 2. Run 'resnext50/resnext50.ipynb'
@@ -24,15 +25,18 @@ For more information about this challenge, have a look on [Zindi](https://zindi.
 
 ### Output
 final_submission.csv
-'''
+
+```
 
 ## Expectations
-'''
+
+```
 To make sure that everything is working smoothly, here is what to expect from above (steps):
 
 Please assert that you run our code with the same GPU performance ,
 you will know our GPU performance by the cell ( <h3> !nvidia-smi </h3> ) 
-'''
+
+```
 ## [On the Leaderboard](https://zindi.africa/competitions/cgiar-wheat-growth-stage-challenge/leaderboard)
 
 Look for the team named : **SidiSahbi2.0** <br>
