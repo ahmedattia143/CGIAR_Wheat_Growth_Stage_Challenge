@@ -12,7 +12,7 @@ For more information about this challenge, have a look on [Zindi](https://zindi.
 ### Steps
 
 
-```
+
 ####  Make sure to follow the repo structure
 #### 1. Run 'resnet152Fastai/resnet152_classif_FastAI.ipynb' to get  'resnet152_classif_FastAI.csv'
 #### 2. Run 'resnext50/resnext50.ipynb'   to get  'resnext50_regression_pytorch.csv'
@@ -28,23 +28,23 @@ For more information about this challenge, have a look on [Zindi](https://zindi.
          
 #### 7. Run 'densenet201/densenet201_classif_FastaAI.ipynb'    to get 'densenet201_classif_FastaAI.csv' 
 #### 8. Run 'Blend/FINAL_BLEND.ipynb'   to get 'Final_Blend.csv'
-```
+
 ## Output
-```
+
 'Final_Blend.csv'
-```
+
 
 
 ## Expectations
 
-```
+
 To make sure that everything is working smoothly, here is what to expect from above (steps):
 
 Please assert that you run our code with the same GPU performance ,
 you will know our GPU performance by the cell  
  
 !nvidia-smi
-```
+
 
 ## [On the Leaderboard](https://zindi.africa/competitions/cgiar-wheat-growth-stage-challenge/leaderboard)
 
