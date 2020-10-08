@@ -41,9 +41,11 @@ For more information about this challenge, have a look on [Zindi](https://zindi.
 To make sure that everything is working smoothly, here is what to expect from above (steps):
 
 Please assert that you run our code with the same GPU performance ,
-you will know our GPU performance by the cell <br> (  !nvidia-smi  ) 
+you will know our GPU performance by the cell  
+ 
 
 ```
+###!nvidia-smi
 ## [On the Leaderboard](https://zindi.africa/competitions/cgiar-wheat-growth-stage-challenge/leaderboard)
 
 Look for the team named : **SidiSahbi2.0** <br>
