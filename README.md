@@ -14,18 +14,25 @@ For more information about this challenge, have a look on [Zindi](https://zindi.
 
 ```
 ####  Make sure to follow the repo structure
-#### 1. Run 'resnet152Fastai/resnet152_classif_FastAI.ipynb'
-#### 2. Run 'resnext50/resnext50.ipynb'
-#### 3. Run 'vgg16_bn/vgg16_bn_regression_FastAI.ipynb'
-#### 4. Run 'densenet169/densenet169_Pytorch_Classif.ipynb '
-#### 5. Run 'densnet201_fasati_reg/densenet201_FASTAI__regression.ipynb'
-#### 6. Run 'resnext101/resnext101_Pytorch_regression.ipynb '
-#### 7. Run 'densenet201/densenet201_classif_FastaAI.ipynb'
-#### 8. Run 'Final_notebook.ipynb'
+#### 1. Run 'resnet152Fastai/resnet152_classif_FastAI.ipynb' to get <h3> 'resnet152_classif_FastAI.csv' </h3>
+#### 2. Run 'resnext50/resnext50.ipynb'   to get <h3>  'resnext50_regression_pytorch.csv'</h3>
+#### 3. Run 'vgg16_bn/vgg16_bn_regression_FastAI.ipynb'   to get <h3> 'vgg16_bn_regression_FastAI.csv' </h3>
+#### 4. Run 'densenet169/densenet169_Pytorch_Classif.ipynb '   to get <h3>'densenet169_Pytorch_Classif.csv' </h3>
+#### 5. Run 'densnet201_fasati_reg/densenet201_FASTAI__regression.ipynb'   to get <h3>'ZION_notebook_densenet201_BS40_size200_350_max_ligh_0.9_max_zoom_1.5_magnitude_0.5.csv' </h3>
+#### 6. in renext101 you will find 5 notebooks  So RUN 
+          -1- 'resnext101_Pytorch_regression_seed_1.ipynb'
+          -2- 'resnext101_Pytorch_regression_seed_1919.ipynb'
+          -3- 'resnext101_Pytorch_regression_seed_20212020.ipynb'
+          -4- 'resnext101_Pytorch_regression_seed_69.ipynb'
+          -5- 'blend_seeds.ipynb' --> and you will get <h3>'final_seed_1_69_1919_20212020.csv' </h3>
+         
+#### 7. Run 'densenet201/densenet201_classif_FastaAI.ipynb'    to get <h3>'densenet201_classif_FastaAI.csv' </h3>
+#### 8. Run 'Blend/FINAL_BLEND.ipynb'   to get <h3>'Final_Blend.csv' </h3>
 
 ### Output
-final_submission.csv
-
+```
+'Final_Blend.csv'
+```
 ```
 
 ## Expectations
